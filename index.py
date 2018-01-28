@@ -1,7 +1,7 @@
 from __future__ import print_function
 import httplib2
 import os
-import sunray
+import facebook
 from apiclient import discovery
 from oauth2client import client
 from oauth2client import tools
@@ -42,17 +42,17 @@ def get_credentials():
         print('Storing credentials to ' + credential_path)
     return credentials
 
-def build_event(name,run_time,start_date,end_date):
+def build_event(id, name, description, rsvp_status, start_time, end_time, location):
 	event = {}
 	event['start'] = {}
 	event['end'] = {}
 	event['attachments'] = {}
 	event['attendees'] = {}
-	start_str = start_date.strftime('%Y-%m-%dT%H:%M:%S')
-	end_str = end_date.strftime('%Y-%m-%dT%H:%M:%S')
+	start_str = start_time.strftime('%Y-%m-%dT%H:%M:%S')
+	end_str = end_time.strftime('%Y-%m-%dT%H:%M:%S')
 	event['summary'] = name
-	event['location'] = '1028 Park St, Jacksonville, FL 32204'
-	event['description'] = 'Run Time: {}'.format(run_time)
+	event['location'] = location
+	event['description'] = description
 	event['start']['dateTime'] = start_str
 	event['start']['timeZone'] = 'America/New_York'
 	event['end']['dateTime'] = end_str
@@ -62,7 +62,7 @@ def build_event(name,run_time,start_date,end_date):
 def get_cal_id(service):
     cals = service.calendarList().list().execute()
     for cal in cals['items']:
-        if cal['summary'] == 'Sun-Ray Cinema':
+        if cal['summary'] == 'Facebook Events':
             cal_id = cal['id']
     return cal_id
 	
@@ -87,22 +87,19 @@ def main():
     clear_calendar(cal_id,service)
 
     #now add new events - first get list of current SunRay showtimes
-    movies = sunray.main()
+    events = facebook.main()
     
     #now loop through and add event
-    for movie in movies:
-        name = movie['name']
-        run_time = parser.parse(movie['run_time']).time()
-        show_start_date = parser.parse(movie['date'])
-        show_start_time = parser.parse(movie['show_time']).time()
-        show_start_date_time = datetime.datetime.combine(show_start_date,show_start_time)
-        show_end_date_time = show_start_date_time + timedelta(hours=run_time.hour,minutes=run_time.minute)
-        show_start_with_tz = show_start_date_time
-        show_end_with_tz = show_end_date_time
-        #only add if it's after work on a weekday (keeps  calendar cleaner)
-        if (show_start_time >= parser.parse('17:00:00').time()) or (show_start_date_time.strftime('%A') in ('Saturday','Sunday')):
-			ev = build_event(name,run_time,show_start_with_tz,show_end_with_tz)
-			add_event(service,ev,cal_id)
+    for event in events:
+		id = event['id']
+		name = event['name']
+		description = event['description']
+		rsvp_status = event['rsvp_status']
+		start_time = event['start_time']
+		end_time = event['end_time']
+		location = event['location']
+		ev = build_event(id, name, description, rsvp_status, start_time, end_time, location)
+		add_event(service,ev,cal_id)
 
 if __name__ == '__main__':
     main()
