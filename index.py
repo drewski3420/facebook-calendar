@@ -52,7 +52,9 @@ def build_event(id, name, description, rsvp_status, start_time, end_time, locati
 	end_str = end_time.strftime('%Y-%m-%dT%H:%M:%S')
 	event['summary'] = name
 	event['location'] = location
-	event['description'] = description
+	event['description'] = 'www.facebook.com/events/{}'.format(id)
+	event['description'] += '\n\n\n'
+	event['description'] += description
 	event['start']['dateTime'] = start_str
 	event['start']['timeZone'] = 'America/New_York'
 	event['end']['dateTime'] = end_str
