@@ -1,4 +1,5 @@
 from __future__ import print_function
+import logger as l
 import httplib2
 import os
 import facebook
@@ -18,6 +19,8 @@ try:
     flags = argparse.ArgumentParser(parents=[tools.argparser]).parse_args()
 except ImportError:
     flags = None
+
+logger = l.setup_custom_logger(__name__)
 
 SCOPES = 'https://www.googleapis.com/auth/calendar'
 CLIENT_SECRET_FILE = 'configs/client_secret.json'
@@ -79,20 +82,23 @@ def add_event(service, ev, cal_id):
     
 def main():
     credentials = get_credentials()
+    logger.info('Got Credentials')
     http = credentials.authorize(httplib2.Http())
     service = discovery.build('calendar', 'v3', http=http)
-    
+    logger.info('Got Service')
     #get calendar ID
     cal_id = get_cal_id(service)
-
+    logger.info('Got Cal_id: {}'.format(cal_id))
     #first delete all upcoming events
     clear_calendar(cal_id,service)
-
+    logger.info('Cleared Calendar')
     #now add new events - first get list of current SunRay showtimes
     events = facebook.main()
-    
+    logger.info('Got events from facebook.py')
+    logger.info('Number of events (showtimes) received: {}'.format(len(events)))
     #now loop through and add event
     for event in events:
+        logger.info('Processing event ID {}, Date {},'.format(event['id'], event['start_time']))
         id = event['id']
         name = event['name']
         description = event['description']
@@ -101,7 +107,9 @@ def main():
         end_time = event['end_time']
         location = event['location']
         ev = build_event(id, name, description, rsvp_status, start_time, end_time, location)
+        logger.info('Event built')
         add_event(service,ev,cal_id)
+        logger.info('Event added')
 
 if __name__ == '__main__':
     main()

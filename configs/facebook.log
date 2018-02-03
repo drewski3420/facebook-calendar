@@ -1,0 +1,1616 @@
+2018-02-03 17:21:05 | __main__ | INFO     | Got Credentials
+2018-02-03 17:21:06 | __main__ | INFO     | Got Service
+2018-02-03 17:21:06 | __main__ | INFO     | Got Cal_id: kvid5nj9b0mg3ronsoth8h0vfk@group.calendar.google.com
+2018-02-03 17:21:06 | __main__ | INFO     | Cleared Calendar
+2018-02-03 17:21:06 | facebook | INFO     | Getting Events
+2018-02-03 17:21:06 | facebook | INFO     | Getting Next Events Page
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 1760686544236858
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 128635511168465
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 560413177639840
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 161894867871831
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 1807656222860578
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 930056537159037
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 1897852187193717
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 209913556222675
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 607437119588703
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 1541399325975790
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 548308775524656
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 1452048054912510
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 147210302749474
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 530431390662642
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 1032919976851123
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 119133375443451
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 156464288434604
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 134718167318584
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 898005363696121
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 339454119855703
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 1976826262556180
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 143475352997541
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 210569229517752
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 536582496722475
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 734261833437706
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Moving on to next page
+2018-02-03 17:21:06 | facebook | INFO     | Getting Next Events Page
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 895497557277745
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 164840627490914
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 168584913866932
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 699021973625754
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 140964419955736
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 151290828845108
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 704849559725078
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 2037743969841132
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 1882686255392712
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 819834271509880
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 170852163641549
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 338264980007374
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 411786685910818
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 1788286918132629
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 1207636886035325
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 1588179614611975
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 342403302879734
+2018-02-03 17:21:06 | facebook | INFO     | Reoccuring Event
+2018-02-03 17:21:06 | facebook | INFO     | Event ID 342403306213067 Time: 2018-02-17T19:00:00-0500
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Event ID 342403309546400 Time: 2018-02-16T19:00:00-0500
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 2051905615087159
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 162260871215179
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 2010850892288670
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 1558137997608496
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 1882103192036294
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 214608119095735
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:06 | facebook | INFO     | Building Event
+2018-02-03 17:21:06 | facebook | INFO     | Built Event
+2018-02-03 17:21:06 | facebook | INFO     | Appended Event
+2018-02-03 17:21:06 | facebook | INFO     | Processing Event ID: 1953773561553760
+2018-02-03 17:21:06 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:07 | facebook | INFO     | Building Event
+2018-02-03 17:21:07 | facebook | INFO     | Built Event
+2018-02-03 17:21:07 | facebook | INFO     | Appended Event
+2018-02-03 17:21:07 | facebook | INFO     | Processing Event ID: 865779646916956
+2018-02-03 17:21:07 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:07 | facebook | INFO     | Building Event
+2018-02-03 17:21:07 | facebook | INFO     | Built Event
+2018-02-03 17:21:07 | facebook | INFO     | Appended Event
+2018-02-03 17:21:07 | facebook | INFO     | Moving on to next page
+2018-02-03 17:21:07 | facebook | INFO     | Getting Next Events Page
+2018-02-03 17:21:07 | facebook | INFO     | Processing Event ID: 929568483864133
+2018-02-03 17:21:07 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:07 | facebook | INFO     | Building Event
+2018-02-03 17:21:07 | facebook | INFO     | Built Event
+2018-02-03 17:21:07 | facebook | INFO     | Appended Event
+2018-02-03 17:21:07 | facebook | INFO     | Processing Event ID: 312873889117217
+2018-02-03 17:21:07 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:07 | facebook | INFO     | Building Event
+2018-02-03 17:21:07 | facebook | INFO     | Built Event
+2018-02-03 17:21:07 | facebook | INFO     | Appended Event
+2018-02-03 17:21:07 | facebook | INFO     | Processing Event ID: 561381830889543
+2018-02-03 17:21:07 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:07 | facebook | INFO     | Building Event
+2018-02-03 17:21:07 | facebook | INFO     | Built Event
+2018-02-03 17:21:07 | facebook | INFO     | Appended Event
+2018-02-03 17:21:07 | facebook | INFO     | Processing Event ID: 171112600071579
+2018-02-03 17:21:07 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:07 | facebook | INFO     | Building Event
+2018-02-03 17:21:07 | facebook | INFO     | Built Event
+2018-02-03 17:21:07 | facebook | INFO     | Appended Event
+2018-02-03 17:21:07 | facebook | INFO     | Processing Event ID: 907051362803581
+2018-02-03 17:21:07 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:07 | facebook | INFO     | Building Event
+2018-02-03 17:21:07 | facebook | INFO     | Built Event
+2018-02-03 17:21:07 | facebook | INFO     | Appended Event
+2018-02-03 17:21:07 | facebook | INFO     | Processing Event ID: 1998925350396250
+2018-02-03 17:21:07 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:07 | facebook | INFO     | Building Event
+2018-02-03 17:21:07 | facebook | INFO     | Built Event
+2018-02-03 17:21:07 | facebook | INFO     | Appended Event
+2018-02-03 17:21:07 | facebook | INFO     | Processing Event ID: 148903432494482
+2018-02-03 17:21:07 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:07 | facebook | INFO     | Building Event
+2018-02-03 17:21:07 | facebook | INFO     | Built Event
+2018-02-03 17:21:07 | facebook | INFO     | Appended Event
+2018-02-03 17:21:07 | facebook | INFO     | Processing Event ID: 166859890601858
+2018-02-03 17:21:07 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:07 | facebook | INFO     | Building Event
+2018-02-03 17:21:07 | facebook | INFO     | Built Event
+2018-02-03 17:21:07 | facebook | INFO     | Appended Event
+2018-02-03 17:21:07 | facebook | INFO     | Processing Event ID: 347029555780564
+2018-02-03 17:21:07 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:07 | facebook | INFO     | Building Event
+2018-02-03 17:21:07 | facebook | INFO     | Built Event
+2018-02-03 17:21:07 | facebook | INFO     | Appended Event
+2018-02-03 17:21:07 | facebook | INFO     | Returning Events list with length 60
+2018-02-03 17:21:07 | facebook | INFO     | Got Events
+2018-02-03 17:21:07 | __main__ | INFO     | Got events from facebook.py
+2018-02-03 17:21:07 | __main__ | INFO     | Number of events (showtimes) received: 60
+2018-02-03 17:21:11 | __main__ | INFO     | Got Credentials
+2018-02-03 17:21:12 | __main__ | INFO     | Got Service
+2018-02-03 17:21:12 | __main__ | INFO     | Got Cal_id: kvid5nj9b0mg3ronsoth8h0vfk@group.calendar.google.com
+2018-02-03 17:21:12 | __main__ | INFO     | Cleared Calendar
+2018-02-03 17:21:12 | facebook | INFO     | Getting Events
+2018-02-03 17:21:12 | facebook | INFO     | Getting Next Events Page
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 1760686544236858
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 128635511168465
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 560413177639840
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 161894867871831
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 1807656222860578
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 930056537159037
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 1897852187193717
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 209913556222675
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 607437119588703
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 1541399325975790
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 548308775524656
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 1452048054912510
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 147210302749474
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 530431390662642
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 1032919976851123
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 119133375443451
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 156464288434604
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 134718167318584
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 898005363696121
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 339454119855703
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 1976826262556180
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 143475352997541
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 210569229517752
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 536582496722475
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Processing Event ID: 734261833437706
+2018-02-03 17:21:12 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:12 | facebook | INFO     | Building Event
+2018-02-03 17:21:12 | facebook | INFO     | Built Event
+2018-02-03 17:21:12 | facebook | INFO     | Appended Event
+2018-02-03 17:21:12 | facebook | INFO     | Moving on to next page
+2018-02-03 17:21:12 | facebook | INFO     | Getting Next Events Page
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 895497557277745
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 164840627490914
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 168584913866932
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 699021973625754
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 140964419955736
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 151290828845108
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 704849559725078
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 2037743969841132
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 1882686255392712
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 819834271509880
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 170852163641549
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 338264980007374
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 411786685910818
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 1788286918132629
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 1207636886035325
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 1588179614611975
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 342403302879734
+2018-02-03 17:21:13 | facebook | INFO     | Reoccuring Event
+2018-02-03 17:21:13 | facebook | INFO     | Event ID 342403306213067 Time: 2018-02-17T19:00:00-0500
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Event ID 342403309546400 Time: 2018-02-16T19:00:00-0500
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 2051905615087159
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 162260871215179
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 2010850892288670
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 1558137997608496
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 1882103192036294
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 214608119095735
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 1953773561553760
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 865779646916956
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Moving on to next page
+2018-02-03 17:21:13 | facebook | INFO     | Getting Next Events Page
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 929568483864133
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 312873889117217
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 561381830889543
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 171112600071579
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 907051362803581
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 1998925350396250
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 148903432494482
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 166859890601858
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Processing Event ID: 347029555780564
+2018-02-03 17:21:13 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:13 | facebook | INFO     | Building Event
+2018-02-03 17:21:13 | facebook | INFO     | Built Event
+2018-02-03 17:21:13 | facebook | INFO     | Appended Event
+2018-02-03 17:21:13 | facebook | INFO     | Returning Events list with length 60
+2018-02-03 17:21:13 | facebook | INFO     | Got Events
+2018-02-03 17:21:13 | __main__ | INFO     | Got events from facebook.py
+2018-02-03 17:21:13 | __main__ | INFO     | Number of events (showtimes) received: 60
+2018-02-03 17:21:33 | __main__ | INFO     | Got Credentials
+2018-02-03 17:21:33 | __main__ | INFO     | Got Service
+2018-02-03 17:21:33 | __main__ | INFO     | Got Cal_id: kvid5nj9b0mg3ronsoth8h0vfk@group.calendar.google.com
+2018-02-03 17:21:34 | __main__ | INFO     | Cleared Calendar
+2018-02-03 17:21:34 | facebook | INFO     | Getting Events
+2018-02-03 17:21:34 | facebook | INFO     | Getting Next Events Page
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 1760686544236858
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 128635511168465
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 560413177639840
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 161894867871831
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 1807656222860578
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 930056537159037
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 1897852187193717
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 209913556222675
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 607437119588703
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 1541399325975790
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 548308775524656
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 1452048054912510
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 147210302749474
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 530431390662642
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 1032919976851123
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 119133375443451
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 156464288434604
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 134718167318584
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 898005363696121
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 339454119855703
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 1976826262556180
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 143475352997541
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 210569229517752
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 536582496722475
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 734261833437706
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Moving on to next page
+2018-02-03 17:21:34 | facebook | INFO     | Getting Next Events Page
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 895497557277745
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 164840627490914
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 168584913866932
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 699021973625754
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 140964419955736
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 151290828845108
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 704849559725078
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 2037743969841132
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 1882686255392712
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 819834271509880
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 170852163641549
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 338264980007374
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 411786685910818
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 1788286918132629
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 1207636886035325
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 1588179614611975
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 342403302879734
+2018-02-03 17:21:34 | facebook | INFO     | Reoccuring Event
+2018-02-03 17:21:34 | facebook | INFO     | Event ID 342403306213067 Time: 2018-02-17T19:00:00-0500
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Event ID 342403309546400 Time: 2018-02-16T19:00:00-0500
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 2051905615087159
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 162260871215179
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 2010850892288670
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 1558137997608496
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 1882103192036294
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 214608119095735
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 1953773561553760
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Processing Event ID: 865779646916956
+2018-02-03 17:21:34 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:34 | facebook | INFO     | Building Event
+2018-02-03 17:21:34 | facebook | INFO     | Built Event
+2018-02-03 17:21:34 | facebook | INFO     | Appended Event
+2018-02-03 17:21:34 | facebook | INFO     | Moving on to next page
+2018-02-03 17:21:34 | facebook | INFO     | Getting Next Events Page
+2018-02-03 17:21:35 | facebook | INFO     | Processing Event ID: 929568483864133
+2018-02-03 17:21:35 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:35 | facebook | INFO     | Building Event
+2018-02-03 17:21:35 | facebook | INFO     | Built Event
+2018-02-03 17:21:35 | facebook | INFO     | Appended Event
+2018-02-03 17:21:35 | facebook | INFO     | Processing Event ID: 312873889117217
+2018-02-03 17:21:35 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:35 | facebook | INFO     | Building Event
+2018-02-03 17:21:35 | facebook | INFO     | Built Event
+2018-02-03 17:21:35 | facebook | INFO     | Appended Event
+2018-02-03 17:21:35 | facebook | INFO     | Processing Event ID: 561381830889543
+2018-02-03 17:21:35 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:35 | facebook | INFO     | Building Event
+2018-02-03 17:21:35 | facebook | INFO     | Built Event
+2018-02-03 17:21:35 | facebook | INFO     | Appended Event
+2018-02-03 17:21:35 | facebook | INFO     | Processing Event ID: 171112600071579
+2018-02-03 17:21:35 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:35 | facebook | INFO     | Building Event
+2018-02-03 17:21:35 | facebook | INFO     | Built Event
+2018-02-03 17:21:35 | facebook | INFO     | Appended Event
+2018-02-03 17:21:35 | facebook | INFO     | Processing Event ID: 907051362803581
+2018-02-03 17:21:35 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:35 | facebook | INFO     | Building Event
+2018-02-03 17:21:35 | facebook | INFO     | Built Event
+2018-02-03 17:21:35 | facebook | INFO     | Appended Event
+2018-02-03 17:21:35 | facebook | INFO     | Processing Event ID: 1998925350396250
+2018-02-03 17:21:35 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:35 | facebook | INFO     | Building Event
+2018-02-03 17:21:35 | facebook | INFO     | Built Event
+2018-02-03 17:21:35 | facebook | INFO     | Appended Event
+2018-02-03 17:21:35 | facebook | INFO     | Processing Event ID: 148903432494482
+2018-02-03 17:21:35 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:35 | facebook | INFO     | Building Event
+2018-02-03 17:21:35 | facebook | INFO     | Built Event
+2018-02-03 17:21:35 | facebook | INFO     | Appended Event
+2018-02-03 17:21:35 | facebook | INFO     | Processing Event ID: 166859890601858
+2018-02-03 17:21:35 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:35 | facebook | INFO     | Building Event
+2018-02-03 17:21:35 | facebook | INFO     | Built Event
+2018-02-03 17:21:35 | facebook | INFO     | Appended Event
+2018-02-03 17:21:35 | facebook | INFO     | Processing Event ID: 347029555780564
+2018-02-03 17:21:35 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:21:35 | facebook | INFO     | Building Event
+2018-02-03 17:21:35 | facebook | INFO     | Built Event
+2018-02-03 17:21:35 | facebook | INFO     | Appended Event
+2018-02-03 17:21:35 | facebook | INFO     | Returning Events list with length 60
+2018-02-03 17:21:35 | facebook | INFO     | Got Events
+2018-02-03 17:21:35 | __main__ | INFO     | Got events from facebook.py
+2018-02-03 17:21:35 | __main__ | INFO     | Number of events (showtimes) received: 60
+2018-02-03 17:21:35 | __main__ | INFO     | Processing event ID 1760686544236858, Date 2018-11-17 10:00:00-05:00,
+2018-02-03 17:21:35 | __main__ | INFO     | Event built
+2018-02-03 17:21:35 | __main__ | INFO     | Event added
+2018-02-03 17:21:35 | __main__ | INFO     | Processing event ID 128635511168465, Date 2018-11-03 12:00:00-04:00,
+2018-02-03 17:21:35 | __main__ | INFO     | Event built
+2018-02-03 17:21:35 | __main__ | INFO     | Event added
+2018-02-03 17:21:35 | __main__ | INFO     | Processing event ID 560413177639840, Date 2018-10-21 10:00:00-04:00,
+2018-02-03 17:21:35 | __main__ | INFO     | Event built
+2018-02-03 17:21:35 | __main__ | INFO     | Event added
+2018-02-03 17:21:35 | __main__ | INFO     | Processing event ID 161894867871831, Date 2018-10-20 10:00:00-04:00,
+2018-02-03 17:21:35 | __main__ | INFO     | Event built
+2018-02-03 17:21:36 | __main__ | INFO     | Event added
+2018-02-03 17:21:36 | __main__ | INFO     | Processing event ID 1807656222860578, Date 2018-09-15 10:00:00-04:00,
+2018-02-03 17:21:36 | __main__ | INFO     | Event built
+2018-02-03 17:21:36 | __main__ | INFO     | Event added
+2018-02-03 17:21:36 | __main__ | INFO     | Processing event ID 930056537159037, Date 2018-09-15 10:00:00-04:00,
+2018-02-03 17:21:36 | __main__ | INFO     | Event built
+2018-02-03 17:21:36 | __main__ | INFO     | Event added
+2018-02-03 17:21:36 | __main__ | INFO     | Processing event ID 1897852187193717, Date 2018-08-19 10:00:00-04:00,
+2018-02-03 17:21:36 | __main__ | INFO     | Event built
+2018-02-03 17:21:36 | __main__ | INFO     | Event added
+2018-02-03 17:21:36 | __main__ | INFO     | Processing event ID 209913556222675, Date 2018-08-18 10:00:00-04:00,
+2018-02-03 17:21:36 | __main__ | INFO     | Event built
+2018-02-03 17:21:37 | __main__ | INFO     | Event added
+2018-02-03 17:21:37 | __main__ | INFO     | Processing event ID 607437119588703, Date 2018-07-21 12:00:00-04:00,
+2018-02-03 17:21:37 | __main__ | INFO     | Event built
+2018-02-03 17:21:37 | __main__ | INFO     | Event added
+2018-02-03 17:21:37 | __main__ | INFO     | Processing event ID 1541399325975790, Date 2018-07-04 16:00:00-04:00,
+2018-02-03 17:21:37 | __main__ | INFO     | Event built
+2018-02-03 17:21:37 | __main__ | INFO     | Event added
+2018-02-03 17:21:37 | __main__ | INFO     | Processing event ID 548308775524656, Date 2018-06-15 18:00:00-04:00,
+2018-02-03 17:21:37 | __main__ | INFO     | Event built
+2018-02-03 17:21:37 | __main__ | INFO     | Event added
+2018-02-03 17:21:37 | __main__ | INFO     | Processing event ID 1452048054912510, Date 2018-05-16 19:00:00-04:00,
+2018-02-03 17:21:37 | __main__ | INFO     | Event built
+2018-02-03 17:21:38 | __main__ | INFO     | Event added
+2018-02-03 17:21:38 | __main__ | INFO     | Processing event ID 147210302749474, Date 2018-04-28 07:00:00-04:00,
+2018-02-03 17:21:38 | __main__ | INFO     | Event built
+2018-02-03 17:21:38 | __main__ | INFO     | Event added
+2018-02-03 17:21:38 | __main__ | INFO     | Processing event ID 530431390662642, Date 2018-04-22 13:00:00-04:00,
+2018-02-03 17:21:38 | __main__ | INFO     | Event built
+2018-02-03 17:21:39 | __main__ | INFO     | Event added
+2018-02-03 17:21:39 | __main__ | INFO     | Processing event ID 1032919976851123, Date 2018-04-21 13:00:00-04:00,
+2018-02-03 17:21:39 | __main__ | INFO     | Event built
+2018-02-03 17:21:39 | __main__ | INFO     | Event added
+2018-02-03 17:21:39 | __main__ | INFO     | Processing event ID 119133375443451, Date 2018-04-10 19:00:00-04:00,
+2018-02-03 17:21:39 | __main__ | INFO     | Event built
+2018-02-03 17:21:39 | __main__ | INFO     | Event added
+2018-02-03 17:21:39 | __main__ | INFO     | Processing event ID 156464288434604, Date 2018-04-07 18:00:00-04:00,
+2018-02-03 17:21:39 | __main__ | INFO     | Event built
+2018-02-03 17:21:39 | __main__ | INFO     | Event added
+2018-02-03 17:21:39 | __main__ | INFO     | Processing event ID 134718167318584, Date 2018-04-03 18:30:00-04:00,
+2018-02-03 17:21:39 | __main__ | INFO     | Event built
+2018-02-03 17:21:40 | __main__ | INFO     | Event added
+2018-02-03 17:21:40 | __main__ | INFO     | Processing event ID 898005363696121, Date 2018-03-24 11:00:00-04:00,
+2018-02-03 17:21:40 | __main__ | INFO     | Event built
+2018-02-03 17:21:40 | __main__ | INFO     | Event added
+2018-02-03 17:21:40 | __main__ | INFO     | Processing event ID 339454119855703, Date 2018-03-24 11:00:00-04:00,
+2018-02-03 17:21:40 | __main__ | INFO     | Event built
+2018-02-03 17:21:40 | __main__ | INFO     | Event added
+2018-02-03 17:21:40 | __main__ | INFO     | Processing event ID 1976826262556180, Date 2018-03-23 01:00:00-07:00,
+2018-02-03 17:21:40 | __main__ | INFO     | Event built
+2018-02-03 17:21:41 | __main__ | INFO     | Event added
+2018-02-03 17:21:41 | __main__ | INFO     | Processing event ID 143475352997541, Date 2018-03-22 17:30:00-04:00,
+2018-02-03 17:21:41 | __main__ | INFO     | Event built
+2018-02-03 17:21:41 | __main__ | INFO     | Event added
+2018-02-03 17:21:41 | __main__ | INFO     | Processing event ID 210569229517752, Date 2018-03-22 08:30:00-04:00,
+2018-02-03 17:21:41 | __main__ | INFO     | Event built
+2018-02-03 17:21:41 | __main__ | INFO     | Event added
+2018-02-03 17:21:41 | __main__ | INFO     | Processing event ID 536582496722475, Date 2018-03-17 10:00:00-04:00,
+2018-02-03 17:21:41 | __main__ | INFO     | Event built
+2018-02-03 17:21:41 | __main__ | INFO     | Event added
+2018-02-03 17:21:41 | __main__ | INFO     | Processing event ID 734261833437706, Date 2018-03-17 09:00:00-04:00,
+2018-02-03 17:21:41 | __main__ | INFO     | Event built
+2018-02-03 17:21:42 | __main__ | INFO     | Event added
+2018-02-03 17:21:42 | __main__ | INFO     | Processing event ID 895497557277745, Date 2018-03-10 12:00:00-05:00,
+2018-02-03 17:21:42 | __main__ | INFO     | Event built
+2018-02-03 17:21:42 | __main__ | INFO     | Event added
+2018-02-03 17:21:42 | __main__ | INFO     | Processing event ID 164840627490914, Date 2018-03-08 18:00:00-05:00,
+2018-02-03 17:21:42 | __main__ | INFO     | Event built
+2018-02-03 17:21:42 | __main__ | INFO     | Event added
+2018-02-03 17:21:42 | __main__ | INFO     | Processing event ID 168584913866932, Date 2018-03-07 19:00:00-05:00,
+2018-02-03 17:21:42 | __main__ | INFO     | Event built
+2018-02-03 17:21:43 | __main__ | INFO     | Event added
+2018-02-03 17:21:43 | __main__ | INFO     | Processing event ID 699021973625754, Date 2018-03-06 19:00:00-05:00,
+2018-02-03 17:21:43 | __main__ | INFO     | Event built
+2018-02-03 17:21:43 | __main__ | INFO     | Event added
+2018-02-03 17:21:43 | __main__ | INFO     | Processing event ID 140964419955736, Date 2018-03-06 18:30:00-05:00,
+2018-02-03 17:21:43 | __main__ | INFO     | Event built
+2018-02-03 17:21:43 | __main__ | INFO     | Event added
+2018-02-03 17:21:43 | __main__ | INFO     | Processing event ID 151290828845108, Date 2018-03-04 12:00:00-05:00,
+2018-02-03 17:21:43 | __main__ | INFO     | Event built
+2018-02-03 17:21:43 | __main__ | INFO     | Event added
+2018-02-03 17:21:43 | __main__ | INFO     | Processing event ID 704849559725078, Date 2018-03-03 10:00:00-05:00,
+2018-02-03 17:21:43 | __main__ | INFO     | Event built
+2018-02-03 17:21:44 | __main__ | INFO     | Event added
+2018-02-03 17:21:44 | __main__ | INFO     | Processing event ID 2037743969841132, Date 2018-03-03 09:30:00-05:00,
+2018-02-03 17:21:44 | __main__ | INFO     | Event built
+2018-02-03 17:21:44 | __main__ | INFO     | Event added
+2018-02-03 17:21:44 | __main__ | INFO     | Processing event ID 1882686255392712, Date 2018-02-27 19:00:00-05:00,
+2018-02-03 17:21:44 | __main__ | INFO     | Event built
+2018-02-03 17:21:44 | __main__ | INFO     | Event added
+2018-02-03 17:21:44 | __main__ | INFO     | Processing event ID 819834271509880, Date 2018-02-24 16:00:00-05:00,
+2018-02-03 17:21:44 | __main__ | INFO     | Event built
+2018-02-03 17:21:44 | __main__ | INFO     | Event added
+2018-02-03 17:21:44 | __main__ | INFO     | Processing event ID 170852163641549, Date 2018-02-24 14:00:00-05:00,
+2018-02-03 17:21:44 | __main__ | INFO     | Event built
+2018-02-03 17:21:45 | __main__ | INFO     | Event added
+2018-02-03 17:21:45 | __main__ | INFO     | Processing event ID 338264980007374, Date 2018-02-22 18:00:00-05:00,
+2018-02-03 17:21:45 | __main__ | INFO     | Event built
+2018-02-03 17:21:45 | __main__ | INFO     | Event added
+2018-02-03 17:21:45 | __main__ | INFO     | Processing event ID 411786685910818, Date 2018-02-20 18:30:00-05:00,
+2018-02-03 17:21:45 | __main__ | INFO     | Event built
+2018-02-03 17:21:45 | __main__ | INFO     | Event added
+2018-02-03 17:21:45 | __main__ | INFO     | Processing event ID 1788286918132629, Date 2018-02-19 18:30:00-05:00,
+2018-02-03 17:21:45 | __main__ | INFO     | Event built
+2018-02-03 17:21:45 | __main__ | INFO     | Event added
+2018-02-03 17:21:45 | __main__ | INFO     | Processing event ID 1207636886035325, Date 2018-02-19 18:00:00-05:00,
+2018-02-03 17:21:45 | __main__ | INFO     | Event built
+2018-02-03 17:21:46 | __main__ | INFO     | Event added
+2018-02-03 17:21:46 | __main__ | INFO     | Processing event ID 1588179614611975, Date 2018-02-16 19:00:00-05:00,
+2018-02-03 17:21:46 | __main__ | INFO     | Event built
+2018-02-03 17:21:46 | __main__ | INFO     | Event added
+2018-02-03 17:21:46 | __main__ | INFO     | Processing event ID 342403306213067, Date 2018-02-17 19:00:00-05:00,
+2018-02-03 17:21:46 | __main__ | INFO     | Event built
+2018-02-03 17:21:46 | __main__ | INFO     | Event added
+2018-02-03 17:21:46 | __main__ | INFO     | Processing event ID 342403309546400, Date 2018-02-16 19:00:00-05:00,
+2018-02-03 17:21:46 | __main__ | INFO     | Event built
+2018-02-03 17:21:47 | __main__ | INFO     | Event added
+2018-02-03 17:21:47 | __main__ | INFO     | Processing event ID 2051905615087159, Date 2018-02-16 16:00:00-05:00,
+2018-02-03 17:21:47 | __main__ | INFO     | Event built
+2018-02-03 17:21:47 | __main__ | INFO     | Event added
+2018-02-03 17:21:47 | __main__ | INFO     | Processing event ID 162260871215179, Date 2018-02-15 19:00:00-05:00,
+2018-02-03 17:21:47 | __main__ | INFO     | Event built
+2018-02-03 17:21:47 | __main__ | INFO     | Event added
+2018-02-03 17:21:47 | __main__ | INFO     | Processing event ID 2010850892288670, Date 2018-02-15 18:00:00-05:00,
+2018-02-03 17:21:47 | __main__ | INFO     | Event built
+2018-02-03 17:21:47 | __main__ | INFO     | Event added
+2018-02-03 17:21:47 | __main__ | INFO     | Processing event ID 1558137997608496, Date 2018-02-14 17:30:00-05:00,
+2018-02-03 17:21:47 | __main__ | INFO     | Event built
+2018-02-03 17:21:48 | __main__ | INFO     | Event added
+2018-02-03 17:21:48 | __main__ | INFO     | Processing event ID 1882103192036294, Date 2018-02-14 17:00:00-05:00,
+2018-02-03 17:21:48 | __main__ | INFO     | Event built
+2018-02-03 17:21:49 | __main__ | INFO     | Event added
+2018-02-03 17:21:49 | __main__ | INFO     | Processing event ID 214608119095735, Date 2018-02-11 12:00:00-05:00,
+2018-02-03 17:21:49 | __main__ | INFO     | Event built
+2018-02-03 17:21:49 | __main__ | INFO     | Event added
+2018-02-03 17:21:49 | __main__ | INFO     | Processing event ID 1953773561553760, Date 2018-02-10 10:00:00-05:00,
+2018-02-03 17:21:49 | __main__ | INFO     | Event built
+2018-02-03 17:21:50 | __main__ | INFO     | Event added
+2018-02-03 17:21:50 | __main__ | INFO     | Processing event ID 865779646916956, Date 2018-02-09 18:00:00-05:00,
+2018-02-03 17:21:50 | __main__ | INFO     | Event built
+2018-02-03 17:21:50 | __main__ | INFO     | Event added
+2018-02-03 17:21:50 | __main__ | INFO     | Processing event ID 929568483864133, Date 2018-02-08 19:00:00-05:00,
+2018-02-03 17:21:50 | __main__ | INFO     | Event built
+2018-02-03 17:21:50 | __main__ | INFO     | Event added
+2018-02-03 17:21:50 | __main__ | INFO     | Processing event ID 312873889117217, Date 2018-02-08 18:00:00-05:00,
+2018-02-03 17:21:50 | __main__ | INFO     | Event built
+2018-02-03 17:21:51 | __main__ | INFO     | Event added
+2018-02-03 17:21:51 | __main__ | INFO     | Processing event ID 561381830889543, Date 2018-02-07 17:00:00-05:00,
+2018-02-03 17:21:51 | __main__ | INFO     | Event built
+2018-02-03 17:21:51 | __main__ | INFO     | Event added
+2018-02-03 17:21:51 | __main__ | INFO     | Processing event ID 171112600071579, Date 2018-02-07 17:00:00-05:00,
+2018-02-03 17:21:51 | __main__ | INFO     | Event built
+2018-02-03 17:21:51 | __main__ | INFO     | Event added
+2018-02-03 17:21:51 | __main__ | INFO     | Processing event ID 907051362803581, Date 2018-02-06 20:00:00-05:00,
+2018-02-03 17:21:51 | __main__ | INFO     | Event built
+2018-02-03 17:21:51 | __main__ | INFO     | Event added
+2018-02-03 17:21:51 | __main__ | INFO     | Processing event ID 1998925350396250, Date 2018-02-06 18:30:00-05:00,
+2018-02-03 17:21:51 | __main__ | INFO     | Event built
+2018-02-03 17:21:52 | __main__ | INFO     | Event added
+2018-02-03 17:21:52 | __main__ | INFO     | Processing event ID 148903432494482, Date 2018-02-05 19:00:00-05:00,
+2018-02-03 17:21:52 | __main__ | INFO     | Event built
+2018-02-03 17:21:52 | __main__ | INFO     | Event added
+2018-02-03 17:21:52 | __main__ | INFO     | Processing event ID 166859890601858, Date 2018-02-04 12:00:00-05:00,
+2018-02-03 17:21:52 | __main__ | INFO     | Event built
+2018-02-03 17:21:52 | __main__ | INFO     | Event added
+2018-02-03 17:21:52 | __main__ | INFO     | Processing event ID 347029555780564, Date 2018-02-04 11:00:00-05:00,
+2018-02-03 17:21:52 | __main__ | INFO     | Event built
+2018-02-03 17:21:53 | __main__ | INFO     | Event added
+2018-02-03 17:22:32 | __main__ | INFO     | Got Credentials
+2018-02-03 17:22:32 | __main__ | INFO     | Got Service
+2018-02-03 17:22:32 | __main__ | INFO     | Got Cal_id: kvid5nj9b0mg3ronsoth8h0vfk@group.calendar.google.com
+2018-02-03 17:22:49 | __main__ | INFO     | Cleared Calendar
+2018-02-03 17:22:49 | facebook | INFO     | Getting Events
+2018-02-03 17:22:49 | facebook | INFO     | Getting Next Events Page
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1760686544236858
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 128635511168465
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 560413177639840
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 161894867871831
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1807656222860578
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 930056537159037
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1897852187193717
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 209913556222675
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 607437119588703
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1541399325975790
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 548308775524656
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1452048054912510
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 147210302749474
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 530431390662642
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1032919976851123
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 119133375443451
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 156464288434604
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 134718167318584
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 898005363696121
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 339454119855703
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1976826262556180
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 143475352997541
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 210569229517752
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 536582496722475
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 734261833437706
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Moving on to next page
+2018-02-03 17:22:50 | facebook | INFO     | Getting Next Events Page
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 895497557277745
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 164840627490914
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 168584913866932
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 699021973625754
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 140964419955736
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 151290828845108
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 704849559725078
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 2037743969841132
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1882686255392712
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 819834271509880
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 170852163641549
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 338264980007374
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 411786685910818
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1788286918132629
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1207636886035325
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1588179614611975
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 342403302879734
+2018-02-03 17:22:50 | facebook | INFO     | Reoccuring Event
+2018-02-03 17:22:50 | facebook | INFO     | Event ID 342403306213067 Time: 2018-02-17T19:00:00-0500
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Event ID 342403309546400 Time: 2018-02-16T19:00:00-0500
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 2051905615087159
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 162260871215179
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 2010850892288670
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1558137997608496
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1882103192036294
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 214608119095735
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1953773561553760
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 865779646916956
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Moving on to next page
+2018-02-03 17:22:50 | facebook | INFO     | Getting Next Events Page
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 929568483864133
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 312873889117217
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 561381830889543
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 171112600071579
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 907051362803581
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 1998925350396250
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 148903432494482
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 166859890601858
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Processing Event ID: 347029555780564
+2018-02-03 17:22:50 | facebook | INFO     | Single Occurrent Event
+2018-02-03 17:22:50 | facebook | INFO     | Building Event
+2018-02-03 17:22:50 | facebook | INFO     | Built Event
+2018-02-03 17:22:50 | facebook | INFO     | Appended Event
+2018-02-03 17:22:50 | facebook | INFO     | Returning Events list with length 60
+2018-02-03 17:22:50 | facebook | INFO     | Got Events
+2018-02-03 17:22:50 | __main__ | INFO     | Got events from facebook.py
+2018-02-03 17:22:50 | __main__ | INFO     | Number of events (showtimes) received: 60
+2018-02-03 17:22:50 | __main__ | INFO     | Processing event ID 1760686544236858, Date 2018-11-17 10:00:00-05:00,
+2018-02-03 17:22:50 | __main__ | INFO     | Event built
+2018-02-03 17:22:51 | __main__ | INFO     | Event added
+2018-02-03 17:22:51 | __main__ | INFO     | Processing event ID 128635511168465, Date 2018-11-03 12:00:00-04:00,
+2018-02-03 17:22:51 | __main__ | INFO     | Event built
+2018-02-03 17:22:51 | __main__ | INFO     | Event added
+2018-02-03 17:22:51 | __main__ | INFO     | Processing event ID 560413177639840, Date 2018-10-21 10:00:00-04:00,
+2018-02-03 17:22:51 | __main__ | INFO     | Event built
+2018-02-03 17:22:51 | __main__ | INFO     | Event added
+2018-02-03 17:22:51 | __main__ | INFO     | Processing event ID 161894867871831, Date 2018-10-20 10:00:00-04:00,
+2018-02-03 17:22:51 | __main__ | INFO     | Event built
+2018-02-03 17:22:52 | __main__ | INFO     | Event added
+2018-02-03 17:22:52 | __main__ | INFO     | Processing event ID 1807656222860578, Date 2018-09-15 10:00:00-04:00,
+2018-02-03 17:22:52 | __main__ | INFO     | Event built
+2018-02-03 17:22:52 | __main__ | INFO     | Event added
+2018-02-03 17:22:52 | __main__ | INFO     | Processing event ID 930056537159037, Date 2018-09-15 10:00:00-04:00,
+2018-02-03 17:22:52 | __main__ | INFO     | Event built
+2018-02-03 17:22:52 | __main__ | INFO     | Event added
+2018-02-03 17:22:52 | __main__ | INFO     | Processing event ID 1897852187193717, Date 2018-08-19 10:00:00-04:00,
+2018-02-03 17:22:52 | __main__ | INFO     | Event built
+2018-02-03 17:22:52 | __main__ | INFO     | Event added
+2018-02-03 17:22:52 | __main__ | INFO     | Processing event ID 209913556222675, Date 2018-08-18 10:00:00-04:00,
+2018-02-03 17:22:52 | __main__ | INFO     | Event built
+2018-02-03 17:22:53 | __main__ | INFO     | Event added
+2018-02-03 17:22:53 | __main__ | INFO     | Processing event ID 607437119588703, Date 2018-07-21 12:00:00-04:00,
+2018-02-03 17:22:53 | __main__ | INFO     | Event built
+2018-02-03 17:22:53 | __main__ | INFO     | Event added
+2018-02-03 17:22:53 | __main__ | INFO     | Processing event ID 1541399325975790, Date 2018-07-04 16:00:00-04:00,
+2018-02-03 17:22:53 | __main__ | INFO     | Event built
+2018-02-03 17:22:53 | __main__ | INFO     | Event added
+2018-02-03 17:22:53 | __main__ | INFO     | Processing event ID 548308775524656, Date 2018-06-15 18:00:00-04:00,
+2018-02-03 17:22:53 | __main__ | INFO     | Event built
+2018-02-03 17:22:53 | __main__ | INFO     | Event added
+2018-02-03 17:22:53 | __main__ | INFO     | Processing event ID 1452048054912510, Date 2018-05-16 19:00:00-04:00,
+2018-02-03 17:22:53 | __main__ | INFO     | Event built
+2018-02-03 17:22:54 | __main__ | INFO     | Event added
+2018-02-03 17:22:54 | __main__ | INFO     | Processing event ID 147210302749474, Date 2018-04-28 07:00:00-04:00,
+2018-02-03 17:22:54 | __main__ | INFO     | Event built
+2018-02-03 17:22:54 | __main__ | INFO     | Event added
+2018-02-03 17:22:54 | __main__ | INFO     | Processing event ID 530431390662642, Date 2018-04-22 13:00:00-04:00,
+2018-02-03 17:22:54 | __main__ | INFO     | Event built
+2018-02-03 17:22:54 | __main__ | INFO     | Event added
+2018-02-03 17:22:54 | __main__ | INFO     | Processing event ID 1032919976851123, Date 2018-04-21 13:00:00-04:00,
+2018-02-03 17:22:54 | __main__ | INFO     | Event built
+2018-02-03 17:22:54 | __main__ | INFO     | Event added
+2018-02-03 17:22:54 | __main__ | INFO     | Processing event ID 119133375443451, Date 2018-04-10 19:00:00-04:00,
+2018-02-03 17:22:54 | __main__ | INFO     | Event built
+2018-02-03 17:22:54 | __main__ | INFO     | Event added
+2018-02-03 17:22:54 | __main__ | INFO     | Processing event ID 156464288434604, Date 2018-04-07 18:00:00-04:00,
+2018-02-03 17:22:54 | __main__ | INFO     | Event built
+2018-02-03 17:22:55 | __main__ | INFO     | Event added
+2018-02-03 17:22:55 | __main__ | INFO     | Processing event ID 134718167318584, Date 2018-04-03 18:30:00-04:00,
+2018-02-03 17:22:55 | __main__ | INFO     | Event built
+2018-02-03 17:22:55 | __main__ | INFO     | Event added
+2018-02-03 17:22:55 | __main__ | INFO     | Processing event ID 898005363696121, Date 2018-03-24 11:00:00-04:00,
+2018-02-03 17:22:55 | __main__ | INFO     | Event built
+2018-02-03 17:22:55 | __main__ | INFO     | Event added
+2018-02-03 17:22:55 | __main__ | INFO     | Processing event ID 339454119855703, Date 2018-03-24 11:00:00-04:00,
+2018-02-03 17:22:55 | __main__ | INFO     | Event built
+2018-02-03 17:22:55 | __main__ | INFO     | Event added
+2018-02-03 17:22:55 | __main__ | INFO     | Processing event ID 1976826262556180, Date 2018-03-23 01:00:00-07:00,
+2018-02-03 17:22:55 | __main__ | INFO     | Event built
+2018-02-03 17:22:56 | __main__ | INFO     | Event added
+2018-02-03 17:22:56 | __main__ | INFO     | Processing event ID 143475352997541, Date 2018-03-22 17:30:00-04:00,
+2018-02-03 17:22:56 | __main__ | INFO     | Event built
+2018-02-03 17:22:56 | __main__ | INFO     | Event added
+2018-02-03 17:22:56 | __main__ | INFO     | Processing event ID 210569229517752, Date 2018-03-22 08:30:00-04:00,
+2018-02-03 17:22:56 | __main__ | INFO     | Event built
+2018-02-03 17:22:56 | __main__ | INFO     | Event added
+2018-02-03 17:22:56 | __main__ | INFO     | Processing event ID 536582496722475, Date 2018-03-17 10:00:00-04:00,
+2018-02-03 17:22:56 | __main__ | INFO     | Event built
+2018-02-03 17:22:57 | __main__ | INFO     | Event added
+2018-02-03 17:22:57 | __main__ | INFO     | Processing event ID 734261833437706, Date 2018-03-17 09:00:00-04:00,
+2018-02-03 17:22:57 | __main__ | INFO     | Event built
+2018-02-03 17:22:57 | __main__ | INFO     | Event added
+2018-02-03 17:22:57 | __main__ | INFO     | Processing event ID 895497557277745, Date 2018-03-10 12:00:00-05:00,
+2018-02-03 17:22:57 | __main__ | INFO     | Event built
+2018-02-03 17:22:57 | __main__ | INFO     | Event added
+2018-02-03 17:22:57 | __main__ | INFO     | Processing event ID 164840627490914, Date 2018-03-08 18:00:00-05:00,
+2018-02-03 17:22:57 | __main__ | INFO     | Event built
+2018-02-03 17:22:57 | __main__ | INFO     | Event added
+2018-02-03 17:22:57 | __main__ | INFO     | Processing event ID 168584913866932, Date 2018-03-07 19:00:00-05:00,
+2018-02-03 17:22:57 | __main__ | INFO     | Event built
+2018-02-03 17:22:58 | __main__ | INFO     | Event added
+2018-02-03 17:22:58 | __main__ | INFO     | Processing event ID 699021973625754, Date 2018-03-06 19:00:00-05:00,
+2018-02-03 17:22:58 | __main__ | INFO     | Event built
+2018-02-03 17:22:58 | __main__ | INFO     | Event added
+2018-02-03 17:22:58 | __main__ | INFO     | Processing event ID 140964419955736, Date 2018-03-06 18:30:00-05:00,
+2018-02-03 17:22:58 | __main__ | INFO     | Event built
+2018-02-03 17:22:58 | __main__ | INFO     | Event added
+2018-02-03 17:22:58 | __main__ | INFO     | Processing event ID 151290828845108, Date 2018-03-04 12:00:00-05:00,
+2018-02-03 17:22:58 | __main__ | INFO     | Event built
+2018-02-03 17:22:58 | __main__ | INFO     | Event added
+2018-02-03 17:22:58 | __main__ | INFO     | Processing event ID 704849559725078, Date 2018-03-03 10:00:00-05:00,
+2018-02-03 17:22:58 | __main__ | INFO     | Event built
+2018-02-03 17:22:59 | __main__ | INFO     | Event added
+2018-02-03 17:22:59 | __main__ | INFO     | Processing event ID 2037743969841132, Date 2018-03-03 09:30:00-05:00,
+2018-02-03 17:22:59 | __main__ | INFO     | Event built
+2018-02-03 17:22:59 | __main__ | INFO     | Event added
+2018-02-03 17:22:59 | __main__ | INFO     | Processing event ID 1882686255392712, Date 2018-02-27 19:00:00-05:00,
+2018-02-03 17:22:59 | __main__ | INFO     | Event built
+2018-02-03 17:22:59 | __main__ | INFO     | Event added
+2018-02-03 17:22:59 | __main__ | INFO     | Processing event ID 819834271509880, Date 2018-02-24 16:00:00-05:00,
+2018-02-03 17:22:59 | __main__ | INFO     | Event built
+2018-02-03 17:22:59 | __main__ | INFO     | Event added
+2018-02-03 17:22:59 | __main__ | INFO     | Processing event ID 170852163641549, Date 2018-02-24 14:00:00-05:00,
+2018-02-03 17:22:59 | __main__ | INFO     | Event built
+2018-02-03 17:23:00 | __main__ | INFO     | Event added
+2018-02-03 17:23:00 | __main__ | INFO     | Processing event ID 338264980007374, Date 2018-02-22 18:00:00-05:00,
+2018-02-03 17:23:00 | __main__ | INFO     | Event built
+2018-02-03 17:23:00 | __main__ | INFO     | Event added
+2018-02-03 17:23:00 | __main__ | INFO     | Processing event ID 411786685910818, Date 2018-02-20 18:30:00-05:00,
+2018-02-03 17:23:00 | __main__ | INFO     | Event built
+2018-02-03 17:23:00 | __main__ | INFO     | Event added
+2018-02-03 17:23:00 | __main__ | INFO     | Processing event ID 1788286918132629, Date 2018-02-19 18:30:00-05:00,
+2018-02-03 17:23:00 | __main__ | INFO     | Event built
+2018-02-03 17:23:01 | __main__ | INFO     | Event added
+2018-02-03 17:23:01 | __main__ | INFO     | Processing event ID 1207636886035325, Date 2018-02-19 18:00:00-05:00,
+2018-02-03 17:23:01 | __main__ | INFO     | Event built
+2018-02-03 17:23:01 | __main__ | INFO     | Event added
+2018-02-03 17:23:01 | __main__ | INFO     | Processing event ID 1588179614611975, Date 2018-02-16 19:00:00-05:00,
+2018-02-03 17:23:01 | __main__ | INFO     | Event built
+2018-02-03 17:23:01 | __main__ | INFO     | Event added
+2018-02-03 17:23:01 | __main__ | INFO     | Processing event ID 342403306213067, Date 2018-02-17 19:00:00-05:00,
+2018-02-03 17:23:01 | __main__ | INFO     | Event built
+2018-02-03 17:23:02 | __main__ | INFO     | Event added
+2018-02-03 17:23:02 | __main__ | INFO     | Processing event ID 342403309546400, Date 2018-02-16 19:00:00-05:00,
+2018-02-03 17:23:02 | __main__ | INFO     | Event built
+2018-02-03 17:23:02 | __main__ | INFO     | Event added
+2018-02-03 17:23:02 | __main__ | INFO     | Processing event ID 2051905615087159, Date 2018-02-16 16:00:00-05:00,
+2018-02-03 17:23:02 | __main__ | INFO     | Event built
+2018-02-03 17:23:03 | __main__ | INFO     | Event added
+2018-02-03 17:23:03 | __main__ | INFO     | Processing event ID 162260871215179, Date 2018-02-15 19:00:00-05:00,
+2018-02-03 17:23:03 | __main__ | INFO     | Event built
+2018-02-03 17:23:03 | __main__ | INFO     | Event added
+2018-02-03 17:23:03 | __main__ | INFO     | Processing event ID 2010850892288670, Date 2018-02-15 18:00:00-05:00,
+2018-02-03 17:23:03 | __main__ | INFO     | Event built
+2018-02-03 17:23:03 | __main__ | INFO     | Event added
+2018-02-03 17:23:03 | __main__ | INFO     | Processing event ID 1558137997608496, Date 2018-02-14 17:30:00-05:00,
+2018-02-03 17:23:03 | __main__ | INFO     | Event built
+2018-02-03 17:23:03 | __main__ | INFO     | Event added
+2018-02-03 17:23:03 | __main__ | INFO     | Processing event ID 1882103192036294, Date 2018-02-14 17:00:00-05:00,
+2018-02-03 17:23:03 | __main__ | INFO     | Event built
+2018-02-03 17:23:04 | __main__ | INFO     | Event added
+2018-02-03 17:23:04 | __main__ | INFO     | Processing event ID 214608119095735, Date 2018-02-11 12:00:00-05:00,
+2018-02-03 17:23:04 | __main__ | INFO     | Event built
+2018-02-03 17:23:04 | __main__ | INFO     | Event added
+2018-02-03 17:23:04 | __main__ | INFO     | Processing event ID 1953773561553760, Date 2018-02-10 10:00:00-05:00,
+2018-02-03 17:23:04 | __main__ | INFO     | Event built
+2018-02-03 17:23:04 | __main__ | INFO     | Event added
+2018-02-03 17:23:04 | __main__ | INFO     | Processing event ID 865779646916956, Date 2018-02-09 18:00:00-05:00,
+2018-02-03 17:23:04 | __main__ | INFO     | Event built
+2018-02-03 17:23:04 | __main__ | INFO     | Event added
+2018-02-03 17:23:04 | __main__ | INFO     | Processing event ID 929568483864133, Date 2018-02-08 19:00:00-05:00,
+2018-02-03 17:23:04 | __main__ | INFO     | Event built
+2018-02-03 17:23:05 | __main__ | INFO     | Event added
+2018-02-03 17:23:05 | __main__ | INFO     | Processing event ID 312873889117217, Date 2018-02-08 18:00:00-05:00,
+2018-02-03 17:23:05 | __main__ | INFO     | Event built
+2018-02-03 17:23:05 | __main__ | INFO     | Event added
+2018-02-03 17:23:05 | __main__ | INFO     | Processing event ID 561381830889543, Date 2018-02-07 17:00:00-05:00,
+2018-02-03 17:23:05 | __main__ | INFO     | Event built
+2018-02-03 17:23:05 | __main__ | INFO     | Event added
+2018-02-03 17:23:05 | __main__ | INFO     | Processing event ID 171112600071579, Date 2018-02-07 17:00:00-05:00,
+2018-02-03 17:23:05 | __main__ | INFO     | Event built
+2018-02-03 17:23:05 | __main__ | INFO     | Event added
+2018-02-03 17:23:05 | __main__ | INFO     | Processing event ID 907051362803581, Date 2018-02-06 20:00:00-05:00,
+2018-02-03 17:23:05 | __main__ | INFO     | Event built
+2018-02-03 17:23:06 | __main__ | INFO     | Event added
+2018-02-03 17:23:06 | __main__ | INFO     | Processing event ID 1998925350396250, Date 2018-02-06 18:30:00-05:00,
+2018-02-03 17:23:06 | __main__ | INFO     | Event built
+2018-02-03 17:23:06 | __main__ | INFO     | Event added
+2018-02-03 17:23:06 | __main__ | INFO     | Processing event ID 148903432494482, Date 2018-02-05 19:00:00-05:00,
+2018-02-03 17:23:06 | __main__ | INFO     | Event built
+2018-02-03 17:23:06 | __main__ | INFO     | Event added
+2018-02-03 17:23:06 | __main__ | INFO     | Processing event ID 166859890601858, Date 2018-02-04 12:00:00-05:00,
+2018-02-03 17:23:06 | __main__ | INFO     | Event built
+2018-02-03 17:23:06 | __main__ | INFO     | Event added
+2018-02-03 17:23:06 | __main__ | INFO     | Processing event ID 347029555780564, Date 2018-02-04 11:00:00-05:00,
+2018-02-03 17:23:06 | __main__ | INFO     | Event built
+2018-02-03 17:23:07 | __main__ | INFO     | Event added
