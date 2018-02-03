@@ -3,7 +3,9 @@ import json
 from dateutil import parser
 import datetime
 import time
-with open('configs/fbook.json') as data_file:
+dir = os.path.dirname(__file__)
+	fn = os.path.join(dir, '/configs/fbook.json')
+with open(fn) as data_file:
 	data = json.load(data_file)
 access_token = data['fb_access_token']
 
