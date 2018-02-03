@@ -1,2 +1,3 @@
 configs/fbook.json
 *.pyc
+configs/facebook.log
