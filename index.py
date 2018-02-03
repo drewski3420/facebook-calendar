@@ -43,23 +43,23 @@ def get_credentials():
     return credentials
 
 def build_event(id, name, description, rsvp_status, start_time, end_time, location):
-	event = {}
-	event['start'] = {}
-	event['end'] = {}
-	event['attachments'] = {}
-	event['attendees'] = {}
-	start_str = start_time.strftime('%Y-%m-%dT%H:%M:%S')
-	end_str = end_time.strftime('%Y-%m-%dT%H:%M:%S')
-	event['summary'] = name
-	event['location'] = location
-	event['description'] = 'www.facebook.com/events/{}'.format(id)
-	event['description'] += '\n\n\n'
-	event['description'] += description
-	event['start']['dateTime'] = start_str
-	event['start']['timeZone'] = 'America/New_York'
-	event['end']['dateTime'] = end_str
-	event['end']['timeZone'] = 'America/New_York'
-	return event
+    event = {}
+    event['start'] = {}
+    event['end'] = {}
+    event['attachments'] = {}
+    event['attendees'] = {}
+    start_str = start_time.strftime('%Y-%m-%dT%H:%M:%S')
+    end_str = end_time.strftime('%Y-%m-%dT%H:%M:%S')
+    event['summary'] = name
+    event['location'] = location
+    event['description'] = 'www.facebook.com/events/{}'.format(id)
+    event['description'] += '\n\n\n'
+    event['description'] += description
+    event['start']['dateTime'] = start_str
+    event['start']['timeZone'] = 'America/New_York'
+    event['end']['dateTime'] = end_str
+    event['end']['timeZone'] = 'America/New_York'
+    return event
 
 def get_cal_id(service):
     cals = service.calendarList().list().execute()
@@ -67,16 +67,16 @@ def get_cal_id(service):
         if cal['summary'] == 'Facebook Events':
             cal_id = cal['id']
     return cal_id
-	
+    
 def clear_calendar(cal_id,service):
     now = datetime.datetime.utcnow().isoformat() + 'Z' # 'Z' indicates UTC time   
     eventsResult = service.events().list(calendarId=cal_id, timeMin=now, singleEvents=True, orderBy='startTime').execute()
     for event in eventsResult['items']:
-		service.events().delete(calendarId=cal_id, eventId=event['id']).execute()
+        service.events().delete(calendarId=cal_id, eventId=event['id']).execute()
 
 def add_event(service, ev, cal_id):
-	service.events().insert(calendarId=cal_id, body=ev).execute()
-	
+    service.events().insert(calendarId=cal_id, body=ev).execute()
+    
 def main():
     credentials = get_credentials()
     http = credentials.authorize(httplib2.Http())
@@ -93,15 +93,15 @@ def main():
     
     #now loop through and add event
     for event in events:
-		id = event['id']
-		name = event['name']
-		description = event['description']
-		rsvp_status = event['rsvp_status']
-		start_time = event['start_time']
-		end_time = event['end_time']
-		location = event['location']
-		ev = build_event(id, name, description, rsvp_status, start_time, end_time, location)
-		add_event(service,ev,cal_id)
+        id = event['id']
+        name = event['name']
+        description = event['description']
+        rsvp_status = event['rsvp_status']
+        start_time = event['start_time']
+        end_time = event['end_time']
+        location = event['location']
+        ev = build_event(id, name, description, rsvp_status, start_time, end_time, location)
+        add_event(service,ev,cal_id)
 
 if __name__ == '__main__':
     main()
