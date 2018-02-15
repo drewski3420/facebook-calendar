@@ -3,6 +3,7 @@ import logger as l
 import httplib2
 import os
 import facebook
+import allevents
 from apiclient import discovery
 from oauth2client import client
 from oauth2client import tools
@@ -64,10 +65,10 @@ def build_event(id, name, description, rsvp_status, start_time, end_time, locati
     event['end']['timeZone'] = 'America/New_York'
     return event
 
-def get_cal_id(service):
+def get_cal_id(service, cal_name):
     cals = service.calendarList().list().execute()
     for cal in cals['items']:
-        if cal['summary'] == 'Facebook Events':
+        if cal['summary'] == cal_name:
             cal_id = cal['id']
     return cal_id
     
@@ -77,23 +78,42 @@ def clear_calendar(cal_id,service):
     for event in eventsResult['items']:
         service.events().delete(calendarId=cal_id, eventId=event['id']).execute()
 
-def add_event(service, ev, cal_id):
-    service.events().insert(calendarId=cal_id, body=ev).execute()
-    
 def main():
     credentials = get_credentials()
     logger.info('Got Credentials')
     http = credentials.authorize(httplib2.Http())
     service = discovery.build('calendar', 'v3', http=http)
     logger.info('Got Service')
+    logger.info('Running RSVP Events')
+    rsvp_events(service)
+    logger.info('Ran RSVP Events')
+    logger.info('Running All Events')
+    all_events(service)
+    logger.info('Ran All Events')
+
+def rsvp_events(service):    
     #get calendar ID
-    cal_id = get_cal_id(service)
+    cal_id = get_cal_id(service,'Facebook Events')
     logger.info('Got Cal_id: {}'.format(cal_id))
     #first delete all upcoming events
     clear_calendar(cal_id,service)
     logger.info('Cleared Calendar')
     #now add new events - first get list of current SunRay showtimes
     events = facebook.main()
+    add_events(events,cal_id,service)
+
+def all_events(service):    
+    #get calendar ID
+    cal_id = get_cal_id(service,'Facebook All Events')
+    logger.info('Got Cal_id: {}'.format(cal_id))
+    #first delete all upcoming events
+    clear_calendar(cal_id,service)
+    logger.info('Cleared Calendar')
+    #now add new events - first get list of current SunRay showtimes
+    events = allevents.main()
+    add_events(events,cal_id,service)
+
+def add_events(events,cal_id,service):
     logger.info('Got events from facebook.py')
     logger.info('Number of events (showtimes) received: {}'.format(len(events)))
     #now loop through and add event
@@ -108,7 +128,7 @@ def main():
         location = event['location']
         ev = build_event(id, name, description, rsvp_status, start_time, end_time, location)
         logger.info('Event built')
-        add_event(service,ev,cal_id)
+        service.events().insert(calendarId=cal_id, body=ev).execute()
         logger.info('Event added')
 
 if __name__ == '__main__':
