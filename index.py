@@ -1,4 +1,5 @@
 from __future__ import print_function
+import cPickle as pickle
 import logger as l
 import httplib2
 import os
@@ -88,8 +89,8 @@ def main():
     rsvp_events(service)
     logger.info('Ran RSVP Events')
     logger.info('Running All Events')
-    all_events(service)
-    logger.info('Ran All Events')
+    #all_events(service)
+    #logger.info('Ran All Events')
 
 def rsvp_events(service):    
     #get calendar ID
@@ -116,6 +117,8 @@ def all_events(service):
 def add_events(events,cal_id,service):
     logger.info('Got events from facebook.py')
     logger.info('Number of events (showtimes) received: {}'.format(len(events)))
+    #with open('test.txt','w') as f:
+    #	f.write(pickle.dumps(events))
     #now loop through and add event
     for event in events:
         logger.info('Processing event ID {}, Date {},'.format(event['id'], event['start_time']))
